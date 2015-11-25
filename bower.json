@@ -5,6 +5,7 @@
 	"authors": [
 		"Ben Keen <ben.keen@gmail.com>"
 	],
+	"main" : "./d3pie/d3pie.js", 
 	"description": "A highly configurable, re-usable script built on d3.js and jQuery for creating clear, attractive pie charts.",
 	"keywords": [
 		"d3",
